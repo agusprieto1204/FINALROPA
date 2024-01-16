@@ -1,0 +1,43 @@
+[
+    {
+      "nombre": "CONJUNTO OVER",
+      "precio": 12000,
+      "imagen": "../img/CONJUNTO.jpg"
+    },
+    {
+      "nombre": "BUZO ESSENTIALS",
+      "precio": 19000,
+      "imagen": "../img/buzo.jpg"
+    },
+    {
+      "nombre": "REMERA BASTARD BASICA",
+      "precio": 20000,
+      "imagen": "../img/remeraover.jpg"
+    },
+    {
+      "nombre": "REMERON BASTARD",
+      "precio": 25450,
+      "imagen": "../img/remeron.jpg"
+    },
+    {
+      "nombre": "PANTALON MOM",
+      "precio": 56999,
+      "imagen": "../img/jeanhombre.jpg"
+    },
+    {
+      "nombre": "BERMUDA OVER",
+      "precio": 90000,
+      "imagen": "../img/bermuda.jpg"
+    },
+    {
+      "nombre": "MEDIAS(ACCSESORIOS)",
+      "precio": 9000,
+      "imagen": "../img/medias.jpg"
+    },
+    {
+      "nombre": "PANTALON CARGO",
+      "precio": 69000,
+      "imagen": "../img/cargoover}.jpg"
+    }
+  ]
+  

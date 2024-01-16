@@ -1,0 +1,28 @@
+#notification-container {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    padding: 10px;
+    background-color: #f0e5d7; 
+    color: #59524c; 
+    border: 1px solid #b1a18d;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: none;
+    z-index: 1000;
+}
+
+.show-notification {
+    display: block;
+    animation: slideIn 0.5s ease-in-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-100%);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
